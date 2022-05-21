@@ -16,7 +16,10 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": {
+    "name": "John Doe",
+    "email": "email@isrequiredfordeb.com"
+  },
   "license": "CC0-1.0",
   "devDependencies": {
     "cli-truncate": "2.1.0",
