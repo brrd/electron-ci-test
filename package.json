@@ -32,7 +32,13 @@
       "category": "your.app.category.type"
     },
     "linux": {
-      "target": ["rpm", "deb"]
+      "target": [
+        "rpm",
+        "deb"
+      ]
     }
+  },
+  "dependencies": {
+    "electron-updater": "^5.0.1"
   }
 }
