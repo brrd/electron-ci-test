@@ -23,7 +23,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "cli-truncate": "2.1.0",
-    "electron": "^18.2.4",
+    "electron": "^19.0.0",
     "electron-builder": "^23.0.3"
   },
   "build": {
